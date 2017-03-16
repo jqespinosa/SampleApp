@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SampleApplication</string>
+    <string name="hint_username">Enter username</string>
+    <string name="submit">Submit</string>
+    <string name="err_empty_username">Please enter a username.</string>
+    <string name="msg_loading">Loading...</string>
+</resources>
